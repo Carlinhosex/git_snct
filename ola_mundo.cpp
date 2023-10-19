@@ -2,6 +2,6 @@
 
 
 int main () {
-        std::cout <<"Olá Mundo c!"<< std::endl;
+        std::cout <<"Olá Mundo cd!"<< std::endl;
         return 0;
 }
